@@ -12,7 +12,9 @@ sticker(
     # p_family = "Helvetica",
     filename="alt_ngsReports_sticker.png",
     h_fill = "white",
-    h_color = "black"
+    h_color = "black",
+    url = "www.bioconductor.org",
+    u_size = 3.5
 )
 
 sticker(
@@ -25,7 +27,9 @@ sticker(
     # p_family = "Helvetica",
     filename="alt_ngsReports_sticker.pdf",
     h_fill = "white",
-    h_color = "black"
+    h_color = "black",
+    url = "www.bioconductor.org",
+    u_size = 1.2
 )
 
 sticker(
@@ -38,5 +42,6 @@ sticker(
     # p_family = "Helvetica",
     filename="alt_ngsReports_sticker.svg",
     h_fill = "white",
-    h_color = "black"
+    h_color = "black",
+    u_size = 1.2
 )
